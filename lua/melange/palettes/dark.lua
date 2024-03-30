@@ -6,7 +6,7 @@ return {
     sel     = "#403A36",
     ui      = "#867462",
     com     = "#C1A78E",
-    fg      = "#ECE1D7",
+    fg      = "#BFBFBF",
   },
   b = {
     red     = "#D47766",
